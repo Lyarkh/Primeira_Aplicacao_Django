@@ -1,7 +1,7 @@
 # Django
 ---
 
-Criando um site utilizando o framework de python, o 'Djando'
+Criando um site utilizando o framework de python, o 'Django'
 
 <details>
 
